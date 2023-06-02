@@ -1,0 +1,15 @@
+.nv-1 {
+  margin-left: 130px;
+  padding-left: 10px;
+}
+.nv-3{
+    margin-left:450px;
+}
+.carousel-control-prev-icon{
+    background-color: black;
+    margin-right: 60px;
+}
+.carousel-control-next-icon{
+    background-color: black;
+    margin-left: 60px;
+}
